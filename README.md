@@ -117,31 +117,9 @@ n-dirb/
 │
 ├── n-dirb.py
 ├── README.md
-├── requirements.txt
-├── .gitignore
 ├── n-dirb-sc.png
 │
 └── reports/
-```
-
----
-
-# requirements.txt
-
-```text
-# External system tools required:
-# nmap
-# dirb
-```
-
----
-
-# .gitignore
-
-```gitignore
-reports/
-__pycache__/
-*.pyc
 ```
 
 ---
